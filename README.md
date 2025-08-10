@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/fxDdk1s/github-banner.png" alt="Banner" />
+  <img src="https://ibb.co.com/JWXr7cB6" alt="Mashreky Toky Tamjid" />
 </p>
 
 # 👋 Hi, I'm Mashreky Toky Tamjid
