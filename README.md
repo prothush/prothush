@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/fxDdk1s/github-banner.png" alt="Banner" />
 </p>
 
-# 👋 Hi, I'm Prothush Mashreky  
+# 👋 Hi, I'm Mashreky Toky Tamjid
 **💻 Full Stack Web Developer | MERN Stack Enthusiast**
 
 ---
@@ -17,7 +17,6 @@ Always eager to learn and explore new tools and frameworks to improve my craft.
 
 ## 🚀 Current Activities
 - 🔍 Exploring **Next.js** and advanced React patterns  
-- 🏗️ Working on a **Tourism Website** project  
 - 📚 Improving backend performance optimization skills  
 - 💡 Building small MERN projects to practice clean code  
 
@@ -49,10 +48,10 @@ Always eager to learn and explore new tools and frameworks to improve my craft.
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/prothush" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/prothush" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -75,22 +74,23 @@ Always eager to learn and explore new tools and frameworks to improve my craft.
 
 ### 1️⃣ School Library Web Application
 📄 **Description:** A full-featured school library management system for tracking books, borrowers, and returns.  
-🔗 **Live Site:** [Visit Project](https://example.com)  
+🔗 **Live Site:** [Visit Project](https://schoollibrary.netlify.app/)  
 🛠 **Technologies:** React, Tailwind CSS, Node.js, Express, MongoDB  
 
 ---
 
 ### 2️⃣ Newspaper Website
 📄 **Description:** An online newspaper platform with premium and regular articles, admin approval system, and publisher filtering.  
-🔗 **Live Site:** [Visit Project](https://example.com)  
+🔗 **Live Site:** [Visit Project](https://thenationaltimes.netlify.app/)  
 🛠 **Technologies:** React, Tailwind CSS, Node.js, Express, MongoDB, Firebase Auth  
 
 ---
 
-### 3️⃣ Parcel Delivery System
-📄 **Description:** A parcel delivery platform with rider assignment, service center mapping, and delivery tracking.  
-🔗 **Live Site:** [Visit Project](https://example.com)  
-🛠 **Technologies:** React, Tailwind CSS, Node.js, Express, MongoDB, Leaflet.js  
+### 3️⃣ HobbyHub Web Application
+📄 **Description:** A community-driven platform where users can create hobby groups, join existing groups, and connect with like-minded people based on shared interests.  
+🔗 **Live Site:** [Visit Project](https://hobbyhubs.netlify.app/)  
+🛠 **Technologies:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase Auth  
+
 
 ---
 
